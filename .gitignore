@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Exportaciones
+exports/
+*.xlsx
+*.pdf
+config*.json
+*.db
